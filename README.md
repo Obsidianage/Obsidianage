@@ -1,65 +1,72 @@
-# Hi 👋 I'm Mohammed Umair
+<h1 align="center">Hi 👋 I'm Mohammed Umair</h1>
+<h3 align="center">Crafting Intelligence | Building the Next Era of AI</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3BB143&center=true&vCenter=true&width=600&lines=AI+Engineer+%7C+Machine+Learning+Developer;Generative+AI+%7C+AI+Agents+%7C+RAG+Systems;Building+Intelligent+and+Ethical+AI+Solutions;Turning+Ideas+into+Scalable+Reality" alt="Typing Animation" />
+</p>
 
 ---
 
-## Crafting Intelligence: My Journey in Data Science and Machine Learning
+### 🚀 About Me
 
-I love being part of this exciting AI and Machine Learning era and don’t want to fall behind in this fast-moving field. Right now, I’m focusing on Generative AI, working with RAG systems, and exploring multi-AI agent setups to sharpen my skills. My main goal is to use this experience to build a startup that brings innovative ideas to life.
+I’m an **AI Engineer** passionate about combining **Generative AI**, **backend systems**, and **real-world deployment** to build scalable and intelligent solutions.  
+Currently diving deep into **RAG pipelines**, **AI Agent frameworks**, and **multi-agent orchestration** — all while laying the foundation for my future **AI startup**.
 
-
-### ✨ Highlights  
-- 🌍 Located in **India**, open to global collaborations on Machine Learning projects  
-- 🕹️ My approach focuses on building AI and ML solutions from the ground up.
-- ✨ Currently focused on mastering **Generative AI** and **AI Agents**  
-- 👌 Actively seeking challenging opportunities to innovate and contribute to impactful projects  
+💡 *“I believe true intelligence should serve humanity, not replace it.”*  
 
 ---
 
-### 🔧 Tech Stack
+### 🔥 Current Focus
+- 🧠 Building advanced **AI Agents** for task automation and reasoning  
+- ⚙️ Developing **RAG-based systems** using **LangChain**, **Ollama**, and **VectorDBs**  
+- ☁️ Exploring **MLOps & Cloud Deployments** to bridge AI with production environments  
+- 🚀 Preparing for a long-term goal — **AI-driven startup leadership**
+
+---
+
+### 🧰 Tech Stack
+
 <p align="left">
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" />
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,html,css,nextjs,nodejs,flask,tensorflow,pytorch,docker,linux,git,postgresql,mysql&perline=8" />
+</p>
+
+---
+
+### 🧑‍💻 Experience Snapshot
+- **Software Developer @ I110Labs (Remote - USA)**  
+  → Built RAG-enabled backend systems and LLM-integrated restaurant AI (Parcera AI).  
+- **Gen AI Intern @ Shoten@Docs (Singapore)**  
+  → Created AI-driven productivity tools using Next.js + LLM APIs.  
+- **Data Science Intern @ Data Point (India)**  
+  → Strengthened ML foundations through practical data projects.
+
+---
+
+### 🤝 Let’s Collaborate
+I’m open to **remote roles**, **research collaborations**, or **AI-driven startup partnerships**.  
+Let’s create something meaningful together 🌍
+
+📩 **Email:** [mohdumairdm@gmail.com](mailto:mohdumairdm@gmail.com)  
+
+<p align="left">
+  <a href="https://linkedin.com/in/umairops" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="40" />
   </a>
-  <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" />
-  </a>
-  <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" />
-  </a>
-  <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" width="36" height="36" alt="TensorFlow" />
-  </a>
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" width="36" height="36" alt="PyTorch" />
+  <a href="https://github.com/Obsidianage" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" width="40" />
   </a>
 </p>
 
 ---
 
-### 🚀 Current Focus
-- Diving deep into **Generative AI**
-- Exploring **AI Agent frameworks**
-- Preparing to innovate and lead my own **startup journey**
-
----
-
-### 🛠️ Let’s Collaborate
-I’m always excited to collaborate with like-minded individuals who share a passion for innovation and problem-solving in AI and ML. Feel free to reach out to me at **[mohdumairdm@gmail.com](mailto:mohdumairdm@gmail.com)** or join my **Discord** community!
-
-<p align="left">
-  <a href="https://discord.gg/rYf2m9TsZT" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" />
-  </a>
+### 📊 GitHub Insights
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Obsidianage&show_icons=true&theme=tokyonight" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Obsidianage&theme=tokyonight" height="160" />
 </p>
 
 ---
 
-### 🔹 Stats & Insights
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Obsidianage&label=Profile%20Views&color=blue&style=flat-square" alt="Profile Views" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Obsidianage&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
-
----
-
-### 🏢 Hire Me
-Want to collaborate or have an exciting opportunity in mind? Let’s make it happen! Reach out at **[mohdumairdm@gmail.com](mailto:mohdumairdm@gmail.com)**.
