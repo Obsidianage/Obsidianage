@@ -49,9 +49,6 @@ Let’s create something meaningful together 🌍
 📩 **Email:** [mohdumairdm@gmail.com](mailto:mohdumairdm@gmail.com)  
 
 <p align="left">
-  <a href="https://linkedin.com/in/umairops" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="40" />
-  </a>
   <a href="https://github.com/Obsidianage" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" width="40" />
   </a>
